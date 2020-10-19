@@ -25,7 +25,7 @@ webpack.pro.js//生产环境的配置文件
 5.plugins用法.js:包括了常用的plugin配置
 6.plugins插件编写.js:包括了开发一个plugin的步骤
 7.webpack构建速度和体积优化.js:包括了一些常用的webpack优化手段
-8.simplePack文件:包含了开发了一个简易的webpack
+8.simplePack文件:包含了开发了一个简易的webpack,包含的核心文件为:index.js,compiler.js,parse.js
 
 
 ### 项目总结
